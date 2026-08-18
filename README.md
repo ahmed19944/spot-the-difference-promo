@@ -57,6 +57,20 @@ you ever reorder.
 
 Unknown keys are ignored, so you can leave notes to yourself anywhere in the file.
 
+## Verifying a build without touching the live feed
+
+`test/issues.json` is a fixture serving one card over the same real HTTPS the shipped game uses. Its
+`id` is `__TestIssue__`, which no theme folder will ever be called, so every build shows it.
+
+```
+-- --promo-feed=https://ahmed19944.github.io/spot-the-difference-promo/test/issues.json
+```
+
+A debug build launched with that should draw the card in the menu's bottom-left corner within a
+second or two of the title appearing. If it does, the whole path works: TLS, Pages, the JSON, the
+cover download and the cache. Then point it at the real feed and the only remaining variable is the
+contents of `issues.json`.
+
 ## Cover art
 
 - Any aspect — the card centres it and preserves the ratio — but **square-ish reads best**, because

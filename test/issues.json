@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "_readme": "Fixture for verifying a build end to end against real HTTPS, without touching the live feed. Point a debug run at this with --promo-feed. The id is deliberately one no theme will ever use, so every build shows this card.",
+  "issues": [
+    {
+      "id": "__TestIssue__",
+      "title": "Test Issue",
+      "blurb": "Fixture, not a real release",
+      "cover": "https://ahmed19944.github.io/spot-the-difference-promo/test/cover.jpg",
+      "urls": {
+        "steam": "https://store.steampowered.com/"
+      }
+    }
+  ]
+}
