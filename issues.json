@@ -18,17 +18,6 @@
   "issues": 
   [
     {
-    "id": "HearthBeyondRain",
-    "title": "Hearth Beyond Rain",
-    "blurb": "Ten new scenes",
-    "cover": "https://ahmed19944.github.io/spot-the-difference-promo/covers/hearth-beyond-rain.jpg",
-    "urls": {
-      "steam": "https://store.steampowered.com/",
-      "android": "https://play.google.com/store/apps/details?id=com.std.veilofembers",
-      "ios": "https://apps.apple.com/app/id000000"
-    }
-    },
-    {
     "id": "LazyTurtles",
     "title": "Lazy Turtles",
     "blurb": "Ten new turtles",
@@ -38,6 +27,18 @@
       "android": "https://play.google.com/store/apps/details?id=com.std.veilofembers",
       "ios": "https://apps.apple.com/app/id000000"
     }
+    },
+    {
+    "id": "HearthBeyondRain",
+    "title": "Hearth Beyond Rain",
+    "blurb": "Ten new scenes",
+    "cover": "https://ahmed19944.github.io/spot-the-difference-promo/covers/hearth-beyond-rain.jpg",
+    "urls": {
+      "steam": "https://store.steampowered.com/",
+      "android": "https://play.google.com/store/apps/details?id=com.std.veilofembers",
+      "ios": "https://apps.apple.com/app/id000000"
     }
+    }
+    
   ]
 }
