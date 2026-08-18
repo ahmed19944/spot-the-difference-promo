@@ -27,6 +27,17 @@
       "android": "https://play.google.com/store/apps/details?id=com.std.veilofembers",
       "ios": "https://apps.apple.com/app/id000000"
     }
+    },
+    {
+    "id": "LazyTurtle",
+    "title": "Lazy Turtle",
+    "blurb": "Ten new turtles",
+    "cover": "https://ahmed19944.github.io/spot-the-difference-promo/covers/lazy-turtle.jpg",
+    "urls": {
+      "steam": "https://store.steampowered.com/",
+      "android": "https://play.google.com/store/apps/details?id=com.std.veilofembers",
+      "ios": "https://apps.apple.com/app/id000000"
+    }
     }
   ]
 }

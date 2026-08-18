@@ -73,9 +73,11 @@ contents of `issues.json`.
 
 ## Cover art
 
-- Any aspect — the card centres it and preserves the ratio — but **square-ish reads best**, because
-  the card is a 4:3 plate with the art on the left.
-- Longest edge around **512 px**, JPEG quality 85, comfortably **under 200 KB**.
+- **Any aspect works.** The card crops to fill its slot, so nothing needs preparing square.
+- The slot is portrait, so **the centre of the image is what shows.** Put the subject there and
+  assume the left and right edges get trimmed — a 16:9 crop loses roughly its outer thirds.
+- Longest edge around **512 px**, JPEG quality 85, comfortably **under 200 KB**. Every player
+  downloads it once, and a heavy file only delays the card appearing.
 - Anything below **32 px** or above **2048 px** on an edge is rejected. Both are valid images that
   would wreck the card's layout, so the game refuses them rather than drawing them.
 
