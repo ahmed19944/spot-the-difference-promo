@@ -1,0 +1,19 @@
+{
+  "version": 1,
+
+  "_readme": "Add issues to the list at the bottom, NEWEST FIRST. Copy the shape from _example and delete nothing else. Keys beginning with _ are ignored by the game, so this file stays valid while you edit it. See README.md.",
+
+  "_example": {
+    "id": "VeilOfEmbers",
+    "title": "Veil of Embers",
+    "blurb": "Ten new scenes",
+    "cover": "https://ahmed19944.github.io/spot-the-difference-promo/covers/veil-of-embers.jpg",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/000000/VeilOfEmbers/",
+      "android": "https://play.google.com/store/apps/details?id=com.std.veilofembers",
+      "ios": "https://apps.apple.com/app/id000000"
+    }
+  },
+
+  "issues": []
+}
