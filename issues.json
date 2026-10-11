@@ -20,12 +20,12 @@
   [
    
     {
-    "id": "LazyTurtles",
-    "title": "Lazy Turtles",
-    "blurb": "Ten new turtles",
-    "cover": "https://ahmed19944.github.io/spot-the-difference-promo/covers/lazy-turtle.jpg",
+    "id": "TheLastWish",
+    "title": "The Last Wish",
+    "blurb": "",
+    "cover": "https://ahmed19944.github.io/spot-the-difference-promo/covers/the-last-wish.png",
     "urls": {
-      "steam": "",
+      "steam": "https://store.steampowered.com/",
       "android": "",
       "ios": ""
     }
